@@ -1,0 +1,13 @@
+Le dispositif Lathuy est spécial :
+il fait énormément confiance à la fiabilité des mesures 
+prises sur le hardware. C'est en fait un cas particulier
+du module 2 et non du module 3, bien que l'on fasse référence 
+à un « repère » dans la description du problème. Cette croix 
+ne permet pas en réalité de reconstituer l'espace 3D, 
+contrairement au cube : en effet, on ne peut tirer 
+aucune perspective 3D d'une image 2D telle qu'une croix. Cette 
+croix ne sert donc qu'à faciliter l'assemblage des deux images.
+C'est un cas particulier du module 2, car (...)
+Mais on peut aussi résoudre le problème d'une manière tout à 
+fait indépendante du module 2, sans reconstituer d'espace 3D 
+donc (...)
